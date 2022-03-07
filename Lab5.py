@@ -34,7 +34,7 @@ if 'banana' in favorite_fruit:
 
 #3.4
 
-age = 9
+age = 25
 
 if age <10:
     print('kid')
