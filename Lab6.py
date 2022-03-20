@@ -51,8 +51,11 @@ for i in range(4,9):
    print(result)
 
 #3.6
+
 result = 0 
+
 for word in 'this is my 6th string'.split():
+   
     print(word)
     result = result + 1
     
